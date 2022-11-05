@@ -13,12 +13,12 @@
 
 # print("The sum of a and b is ", a+b)
 
-'''
-PascalCase 
-EmployeeName -->PascalCase 
+# '''
+# PascalCase 
+# EmployeeName -->PascalCase 
 
-camelCase
-isNumeric, isFloatOrInt -->camelCase
+# camelCase
+# isNumeric, isFloatOrInt -->camelCase
 '''
 class number:
     def sum(self):
